@@ -1,6 +1,11 @@
 # 💫 About Me:
 Hi 👋, I'm Saptarshi Upadhyay<br>Just another engineering student writing code in a procrastinating yet somehow functional manner.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Spuk2006-glitch/Spuk2006-glitch/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Spuk2006-glitch/Spuk2006-glitch/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Spuk2006-glitch/Spuk2006-glitch/output/github-snake.svg" />
+</picture>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/saptarshi-upadhyay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:upadhyay.saptarshi@gmail.com) 
