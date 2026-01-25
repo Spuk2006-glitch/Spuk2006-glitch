@@ -15,7 +15,7 @@ Hi 👋, I'm Saptarshi Upadhyay<br>Just another engineering student writing code
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Spuk2006-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Spuk2006-glitch&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spuk2006-glitch&theme=dark&hide_border=false&layout=compact&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spuk2006-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Spuk2006-glitch&theme=radical&no-frame=false&no-bg=false&margin-w=4)
