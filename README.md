@@ -1,31 +1,7 @@
 # 💫 About Me:
-<h1 align="center">
-  <svg width="600" height="60" viewBox="0 0 600 60">
-    <style>
-      .text {
-        font-family: 'Courier New', monospace;
-        font-size: 36px;
-        fill: #58a6ff;
-        animation: typing 3s steps(30, end), blink 0.8s infinite;
-        white-space: nowrap;
-        overflow: hidden;
-      }
-
-      @keyframes typing {
-        from { width: 0; }
-        to { width: 100%; }
-      }
-
-      @keyframes blink {
-        50% { opacity: 0; }
-      }
-    </style>
-
-    <text x="0" y="40" class="text">
-      Hey, I'm Saptarshi Upadhyay! 👋
-    </text>
-  </svg>
-</h1>
+<h3 align="center">
+  Hi 👋, I'm <b>Saptarshi Upadhyay</b>
+</h3>
 
 <p align="center" style="font-size: 1.05em; color: #6a737d; max-width: 600px; margin: auto;">
   <i>Just another engineering student writing code in a procrastinating yet somehow functional manner.</i>
