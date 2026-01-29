@@ -1,5 +1,13 @@
 # 💫 About Me:
-<b>Hi 👋, I'm Saptarshi Upadhyay</b><br>Just another engineering student writing code in a procrastinating yet somehow functional manner.
+<h3 align="center">
+  Hi 👋, I'm <b>Saptarshi Upadhyay</b>
+</h3>
+
+<p align="center" style="font-size: 1.05em; color: #6a737d; max-width: 600px; margin: auto;">
+  <i>Just another engineering student writing code in a procrastinating yet somehow functional manner.</i>
+</p>
+
+<hr style="width: 60%; border: 0.5px solid #30363d; margin: 20px auto;">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Spuk2006-glitch/Spuk2006-glitch/output/github-snake-dark.svg" />
