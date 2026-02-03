@@ -1,9 +1,21 @@
 # 💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Saptarshi+Upadhyay)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=9D7CFF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Saptarshi+Upadhyay)](https://git.io/typing-svg)
+
 
 <p align="center" style="font-size: 1.05em; color: #6a737d; max-width: 600px; margin: auto;">
   <i>Just another engineering student writing code in a procrastinating yet somehow functional manner.</i>
+</p>
+
+<hr>
+<p align="center">
+  <a href="https://portfolio-26-beryl.vercel.app/" target="_blank">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=9D7CFF&center=true&vCenter=true&width=700&lines=My+Portfolio;portfolio-26-beryl.vercel.app" 
+      alt="My Portfolio" 
+    />
+  </a>
 </p>
 
 <hr style="width: 60%; border: 0.5px solid #30363d; margin: 20px auto;">
