@@ -1,8 +1,10 @@
-# 💫 About Me:
 
+
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=9D7CFF&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Saptarshi+Upadhyay)](https://git.io/typing-svg)
 
+<hr/>
 
 <p align="center" style="font-size: 1.05em; color: #6a737d; max-width: 600px; margin: auto;">
   <i>Just another engineering student writing code in a procrastinating yet somehow functional manner.</i>
