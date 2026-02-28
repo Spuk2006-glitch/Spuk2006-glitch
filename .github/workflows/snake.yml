@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: Spuk2006-glitch
+          github_user_name: saptarshiUpadhyay2006
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
