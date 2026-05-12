@@ -12,7 +12,7 @@
 
 <hr>
 <p align="center">
-  <a href="[https://portfolio-26-beryl.vercel.app](https://upadhyaysaptarshi.xyz)/" target="_blank">
+  <a href="https://upadhyaysaptarshi.xyz/" target="_blank">
     <img 
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=9D7CFF&center=true&vCenter=true&width=700&lines=My+Portfolio;portfolio-26-beryl.vercel.app" 
       alt="My Portfolio" 
